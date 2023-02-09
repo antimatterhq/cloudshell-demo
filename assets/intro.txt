@@ -1,0 +1,10 @@
+c[34;1m
+     / \    / \
+    /  /    \  \      ANTIMATTER DB DEMO
+   /  /  /\  \  \
+  /  /  /  \  \  \
+ /__/  /_/\_\  \__\
+
+[0m
+Follow instructions panel to begin
+
