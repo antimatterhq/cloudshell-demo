@@ -10,6 +10,5 @@ then
   exit 1
 fi
 
-ssh-add assets/sshkey
 
-ssh demo@34.70.162.127
+ssh -i assets/sshkey demo@34.70.162.127
